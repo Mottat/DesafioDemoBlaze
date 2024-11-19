@@ -1,0 +1,24 @@
+
+img[class="card-img-top img-fluid"]
+
+
+<a href="prod.html?idp_=10" class="hrefch">Apple monitor 24</a>
+
+
+  @FindBy(css = "input[id=\"country\"]")
+    public static WebElement pais;
+
+    @FindBy(css = "input[id=\"city\"]")
+    public static WebElement cidade;
+
+    @FindBy(css = "input[id=\"card\"]")
+    public static WebElement cartaoCredito;
+
+    @FindBy(css = "input[id=\"month\"]")
+    public static WebElement mes;
+
+    @FindBy(css = "input[id=\"year\"]")
+    public static WebElement ano;
+
+
+

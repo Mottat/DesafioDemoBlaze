@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="16.77" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Compra monitor" name="Fazer a compra de um monitor" time="16.329">
+<system-out><![CDATA[
+Dado que acesso site do DemoBlaze...........................................passed
+Quando pesquiso um monitor..................................................passed
+E adiciono monitor no carrinho..............................................passed
+Entao realizo compra do monitor.............................................passed
+E finalizo a compra.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
